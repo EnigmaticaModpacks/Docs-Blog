@@ -16,7 +16,7 @@ The Enigmatica Modpacks Team is pleased to present, Enigmatica 6: Expert!
 
 • Prepare for epic battles with the ancient Pharaohs of Atum, the flesh devouring Masticator of Undergarden, and the Wilden Chimera, all in the name of regaining the lost knowledge of the ancients necessary to master the arcane arts.
 
-• Find and Breed custom Resourceful Bees whose delicious gifts will be vital in your ultimate quest.
+• Find and breed custom Resourceful Bees whose delicious gifts will be vital in your ultimate quest.
 
 ### Good luck and have fun!
 
