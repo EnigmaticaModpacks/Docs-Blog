@@ -17,3 +17,13 @@ Enigmatica Modpacks Team is pleased to present, Enigmatica 6: Expert.
 • Prepare for epic battles with the ancient Pharaohs of Atum, the flesh devouring Masticator of Undergarden, and the Wilden Chimera, all in the name of regaining the lost knowledge of the ancients necessary to master the arcane arts.
 
 • Find and Breed custom Resourceful Bees whose delicious gifts will be vital in your ultimate quest.
+
+{% hint style="success" %}
+## Release date ? March 2022
+{% endhint %}
+
+{% embed url="https://www.curseforge.com/minecraft/modpacks/enigmatica6expert" %}
+
+{% embed url="https://github.com/EnigmaticaModpacks/Enigmatica6/issues" %}
+Please report any bugs you may find here
+{% endembed %}
