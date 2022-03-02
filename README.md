@@ -2,7 +2,7 @@
 
 The next great Expert experience has arrived and you are cordially invited to join in the adventure!&#x20;
 
-Enigmatica Modpacks Team is pleased to present, Enigmatica 6: Expert.
+The Enigmatica Modpacks Team is pleased to present, Enigmatica 6: Expert!
 
 #### Features:
 
@@ -18,8 +18,10 @@ Enigmatica Modpacks Team is pleased to present, Enigmatica 6: Expert.
 
 • Find and Breed custom Resourceful Bees whose delicious gifts will be vital in your ultimate quest.
 
+### Good luck and have fun!
+
 {% hint style="success" %}
-## Release date ? March 2022
+## Release on 11. March 2022
 {% endhint %}
 
 {% embed url="https://www.curseforge.com/minecraft/modpacks/enigmatica6expert" %}
