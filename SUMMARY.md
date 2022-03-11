@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Announcing Enigmatica 6: Expert!](README.md)
+* [🎉 E6E Release](README.md)
+* [Announcing Enigmatica 6: Expert!](<README (1).md>)
 
 ## 🔗 Links
 
