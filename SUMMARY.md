@@ -1,7 +1,8 @@
 # Table of contents
 
-* [The State of Enigmatica 8](README.md)
-* [🎉 E6E Release](<README (2).md>)
+* [Minecraft 1.19](README.md)
+* [The State of Enigmatica 8](<README (2).md>)
+* [🎉 E6E Release](<README (2) (1).md>)
 * [Announcing Enigmatica 6: Expert!](<README (1).md>)
 
 ## 🔗 Links
