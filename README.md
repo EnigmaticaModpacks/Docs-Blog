@@ -1,15 +1,15 @@
-# Minecraft 1.19
+# Release of Enigmatica 9!
 
-Now that Minecraft 1.19 is out I thought I'd make an announcement regarding our plans for the future versions. The release of Minecraft 1.19 kinda caught me off guard to be honest, I didn't think it'd be ready so soon but here we are :sweat\_smile:
+### Enigmatica 9 is now available, at long last :smile:&#x20;
 
-We will begin working on Enigmatica 9 for Minecraft 1.19 as soon as a handful of good mods are available.
+We hope you'll check it out!
 
-When we begin on E9, we will sadly stop development on Enigmatica 8. It's likely that [the update we've been working on](<README (2).md>) will never be released, but we'll see.
+We're keeping the modpack slim(-ish) this time around, to give ourselves time to really work with the content mods we've chosen.
 
-Enigmatica 6 will remain supported of course, and will receive updates whenever needed.
+Work on Enigmatica 9: Expert has begun, but there's still a ton left to do.
 
 
 
-Thanks for reading.
+In my [last blog post](<README (3).md>) I stated that E8 would go out of support as soon as E9 dropped, but I've since then reconsidered. E8 will receive at least one more update before we stop development on it.
 
-\- Niller
+{% embed url="https://www.curseforge.com/minecraft/modpacks/enigmatica9" %}
